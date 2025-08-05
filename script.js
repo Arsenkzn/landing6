@@ -11,7 +11,7 @@ const courses = [
     title: "NFT GALAXY GUIDE",
     price: 1.5,
     category: "NFTS",
-    preview: "https://source.unsplash.com/random/300x200/?galaxy,art",
+    preview: "img/prev2.png",
   },
   {
     id: 3,
