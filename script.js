@@ -81,7 +81,7 @@ const courses = [
     title: "GENERATIVE ART",
     price: 2.2,
     category: "NFTS",
-    ppreview: "img/prev12.png",
+    preview: "img/prev12.png",
   },
   {
     id: 13,
@@ -102,14 +102,14 @@ const courses = [
     title: "NFT ROYALTIES",
     price: 0.7,
     category: "NFTS",
-    ppreview: "img/prev15.png",
+    preview: "img/prev15.png",
   },
   {
     id: 16,
     title: "GAS OPTIMIZATION",
     price: 1.3,
     category: "SMART CONTRACTS",
-    ppreview: "img/prev16.png",
+    preview: "img/prev16.png",
   },
   /*{
     id: 17,
