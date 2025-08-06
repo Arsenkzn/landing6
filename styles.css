@@ -11,6 +11,7 @@
 }
 
 body {
+  background-image: url("./img/background.png");
   background-color: var(--sk-bg);
   color: var(--sk-text);
   font-family: "Comic Neue", cursive;
@@ -116,9 +117,9 @@ body {
 .sk-section-title {
   text-align: center;
   font-family: "Rubik Bubbles", cursive;
-  font-size: 1.8rem;
+  font-size: 2rem;
   margin-bottom: 2rem;
-  color: var(--sk-primary);
+  color: yellowgreen;
 }
 
 .sk-info-cards {
